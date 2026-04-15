@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa_sostenible>
+    <stakeholder importancia="alta">
+        <nombre>Accionistas</nombre>
+        <descripcion>Inversores y propietarios de la empresa</descripcion>
+    </stakeholder>
+    <stakeholder importancia="alta">
+        <nombre>Empleados</nombre>
+        <descripcion>Personal de la organización</descripcion>
+    </stakeholder>
+    <stakeholder importancia="media">
+        <nombre>Clientes</nombre>
+        <descripcion>Usuarios de productos y servicios</descripcion>
+    </stakeholder>
+    <stakeholder importancia="media">
+        <nombre>Proveedores</nombre>
+        <descripcion>Socios comerciales en la cadena de suministro</descripcion>
+    </stakeholder>
+    <stakeholder importancia="baja">
+        <nombre>Comunidad Local</nombre>
+        <descripcion>Poblaciones cercanas a las instalaciones</descripcion>
+    </stakeholder>
+    
+    <tema_material>
+        <nombre>Emisiones de Carbono</nombre>
+        <descripcion>Control y reducción de gases de efecto invernadero en operaciones</descripcion>
+        <nivel_impacto_asg>Ambiental</nivel_impacto_asg>
+    </tema_material>
+    <tema_material>
+        <nombre>Uso de Agua</nombre>
+        <descripcion>Gestión eficiente del consumo de agua en procesos productivos</descripcion>
+        <nivel_impacto_asg>Ambiental</nivel_impacto_asg>
+    </tema_material>
+    <tema_material>
+        <nombre>Residuos y Reciclaje</nombre>
+        <descripcion>Minimización de residuos y promoción de economía circular</descripcion>
+        <nivel_impacto_asg>Ambiental</nivel_impacto_asg>
+    </tema_material>
+    <tema_material>
+        <nombre>Derechos Laborales</nombre>
+        <descripcion>Respeto de derechos humanos y condiciones laborales justas</descripcion>
+        <nivel_impacto_asg>Social</nivel_impacto_asg>
+    </tema_material>
+    <tema_material>
+        <nombre>Salud y Seguridad</nombre>
+        <descripcion>Protección de la salud e integridad física de trabajadores</descripcion>
+        <nivel_impacto_asg>Social</nivel_impacto_asg>
+    </tema_material>
+    <tema_material>
+        <nombre>Diversidad e Inclusión</nombre>
+        <descripcion>Fomento de igualdad de oportunidades y diversidad en la plantilla</descripcion>
+        <nivel_impacto_asg>Social</nivel_impacto_asg>
+    </tema_material>
+    <tema_material>
+        <nombre>Ética Empresarial</nombre>
+        <descripcion>Cumplimiento de normas éticas y legales en todas las operaciones</descripcion>
+        <nivel_impacto_asg>Gobernanza</nivel_impacto_asg>
+    </tema_material>
+    <tema_material>
+        <nombre>Transparencia y Reporteo</nombre>
+        <descripcion>Comunicación clara y veraz sobre desempeño económico y sostenibilidad</descripcion>
+        <nivel_impacto_asg>Gobernanza</nivel_impacto_asg>
+    </tema_material>
+    <tema_material>
+        <nombre>Cumplimiento Normativo</nombre>
+        <descripcion>Adherencia a leyes, regulaciones y estándares internacionales</descripcion>
+        <nivel_impacto_asg>Gobernanza</nivel_impacto_asg>
+    </tema_material>
+</empresa_sostenible>
